@@ -1,0 +1,16 @@
+{
+    "name": "php/test",
+    "description": "test php mysql mvc design pattern simple app",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "OUDRHIRI Oussama"
+        }
+    ],
+    "require": {}
+}
